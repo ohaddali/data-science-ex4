@@ -4,6 +4,7 @@
 ### KNN 
 The K Nearest Neighbors algorithm is non-parametic methoud used in this case for classification.
 For every new object calssified by the majority vote of k nearest neighbors.
+In this document we use the majority vote of 15 neighbors.
 
 ## Setups
 
