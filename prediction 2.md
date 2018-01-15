@@ -235,4 +235,3 @@ resultsToWrite.to_csv("KNN_submission.csv")
 ## The prediction Score
 ![KNN prediction Score](./Images/KNN_score.PNG)
 
-The csv file is 
