@@ -6,7 +6,7 @@ In this document we use the Gaussian naive Bayes classifier.
 
 With this algorithm we got the best result that placed us in :
 
-![leaderBoard](./leaderBoard.PNG)
+![leaderBoard](./Images/leaderBoard.PNG)
 
 
 ##Pre Processing the data
@@ -2228,4 +2228,4 @@ resultsToWrite.to_csv("NaiveBayes_submission.csv")
 ```
 
 ## The prediction Score
-![NaiveBayes prediction Score](./NaiveBayes_score.PNG)
+![NaiveBayes prediction Score](./Images/NaiveBayes_score.PNG)
